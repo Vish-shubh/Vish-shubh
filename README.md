@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Nagane</h1>
-<h3 align="center">Work on Data Science Project</h3>
+<h3 align="center">Work on PL/SQL Project</h3>
 
 <img align="right" alt="coding" width="400" scr="![image](https://user-images.githubusercontent.com/110964388/194760430-a5e8b88f-d2ee-4a4b-a55b-5e0915ddc5f6.png)">
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vish-shubh](https://github.com/Vish-shubh)
 
-- 📫 How to reach me **shubhamnagane24@gmail.com**
+- 📫 How to reach me **shubham.nagane01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
